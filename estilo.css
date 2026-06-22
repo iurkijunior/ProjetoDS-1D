@@ -12,7 +12,19 @@ body{
 font-family: "Roboto Mono", monospace;
 }
 
-.cabecalho(
+.cabecalho{
     background-color: 
-    text-align: center;
-)
+    text-aling: center;
+    padding: 20px;
+}
+.Imagem-post{
+    width: 80px;
+    height: 80px;
+}
+main{
+   background-color: aliceblue;
+   color: black;
+   max-width: 800px;
+   margin: 0 auto
+   padding
+}
