@@ -13,9 +13,9 @@ font-family: "Roboto Mono", monospace;
 }
 
 .cabecalho{
-    background-color: 
-    text-aling: center;
-    padding: 20px;
+background-color: white;
+text-align: center;
+padding: 20px;
 }
 .Imagem-post{
     width: 80px;
@@ -25,7 +25,7 @@ main{
    background-color: aliceblue;
    color: black;
    max-width: 800px;
-   margin: 0 auto
+   margin: 0 auto;
    padding: 16px;
 }
 article{
@@ -33,4 +33,11 @@ article{
 }
 .texto post{
     margin-left: 40px;
+}
+button{
+width: 100px;
+padding: 10px;
+border-radius: 10px;
+background-color: yellow;
+color: white;
 }
