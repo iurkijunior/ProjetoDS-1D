@@ -31,7 +31,7 @@ main{
 article{
     display: flex;
 }
-.texto post{
+.texto-post{
     margin-left: 40px;
 }
 button{
