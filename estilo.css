@@ -26,5 +26,11 @@ main{
    color: black;
    max-width: 800px;
    margin: 0 auto
-   padding
+   padding: 16px;
+}
+article{
+    display: flex;
+}
+.texto post{
+    margin-left: 40px;
 }
